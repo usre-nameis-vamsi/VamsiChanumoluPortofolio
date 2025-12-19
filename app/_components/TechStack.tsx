@@ -33,7 +33,7 @@ const TECH_STACK = {
     },
     {
       name: "PostgreSQL",
-      logo: "/images/tech/postgresql.png",
+      logo: "/images/tech/Postgresql.png",
     },
     {
       name: "MongoDB",
